@@ -18,6 +18,6 @@
     "name": "claudeemailmarketing",
     "path": "skills/claudeemailmarketing",
     "install": "npx skills add claudeemailmarketing",
-    "githubInstall": "npx skills add polnikale/claudeemailmarketing --skill claudeemailmarketing"
+    "githubInstall": "npx skills add Sequenzy/claudeemailmarketing --skill claudeemailmarketing"
   }
 }
