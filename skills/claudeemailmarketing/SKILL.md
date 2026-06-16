@@ -1,5 +1,5 @@
 ---
-name: claude-email-marketing
+name: claudeemailmarketing
 description: Use when Codex or another AI agent needs to plan, review, implement, audit, or improve email work focused on Claude-assisted positioning, segmentation, and lifecycle content. Triggers include requests about Offer refinement, Segment-specific messaging, Lifecycle copy reviews, email briefs, email QA, subscriber journeys, production handoffs, approval gates, and agent-safe email operations.
 ---
 
