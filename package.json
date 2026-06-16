@@ -1,0 +1,23 @@
+{
+  "name": "claude-email-marketing",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Claude Email Marketing Skill: Claude-assisted positioning, segmentation, and lifecycle content.",
+  "type": "module",
+  "scripts": {
+    "build": "node -e \"console.log('static public site ready')\"",
+    "validate": "node scripts/validate.mjs"
+  },
+  "keywords": [
+    "codex-skill",
+    "email",
+    "agents",
+    "claude-email-marketing"
+  ],
+  "skill": {
+    "name": "claude-email-marketing",
+    "path": "skills/claude-email-marketing",
+    "install": "npx skills add claude-email-marketing",
+    "githubInstall": "npx skills add polnikale/claudeemailmarketing --skill claude-email-marketing"
+  }
+}
