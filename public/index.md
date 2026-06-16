@@ -2,9 +2,9 @@
 
 claudeemailmarketing.com
 
-Claude Email Marketing Skill for agents that work on email systems.
+Shape sharper lifecycle messaging before the campaign brief is written.
 
-A compact skill for Claude-assisted positioning, segmentation, and lifecycle content, built for Codex, Hermes, OpenClaw, Claude Code, Cowork, Goose, Cursor, Windsurf, and other skill-aware agents. It gives agents intake questions, review gates, QA checks, and handoff formats for production email work.
+A marketing strategy skill for agents that refine offers, map segments, and critique lifecycle copy with evidence instead of generic persuasion.
 
 ## Install
 
@@ -12,16 +12,43 @@ A compact skill for Claude-assisted positioning, segmentation, and lifecycle con
 npx skills add claudeemailmarketing
 ```
 
-Raw skill folder: `skills/claudeemailmarketing`
+## Operating Data
 
-## Use Cases
+- **7**: positioning inputs
+- **4**: segment lenses
+- **3**: copy risk flags
 
-- **Offer refinement**: Give agents a bounded way to inspect inputs, propose changes, and surface approval points before anything reaches subscribers.
-- **Segment-specific messaging**: Give agents a bounded way to inspect inputs, propose changes, and surface approval points before anything reaches subscribers.
-- **Lifecycle copy reviews**: Give agents a bounded way to inspect inputs, propose changes, and surface approval points before anything reaches subscribers.
+## Message strategy canvas
 
-## Guides
+1. Audience tension
+2. Offer proof
+3. Lifecycle moment
+4. Objection
+5. CTA
 
-- [How to Build an Agent-Ready Claude Email Marketing Strategy](/articles/agent-ready-email-strategy/index.md)
-- [The Practical Claude Email Marketing Operations Playbook for AI Agents](/articles/email-operations-playbook/index.md)
-- [Claude Email Marketing Skill Audit Checklist: From Prompt to Production](/articles/email-skill-audit-checklist/index.md)
+## Scenarios
+
+### Offer refinement
+
+Separate the real promise from feature-heavy campaign copy.
+
+### Segment-specific messaging
+
+Adapt proof, objections, and CTA by lifecycle state.
+
+### Lifecycle copy review
+
+Find mismatches between message, timing, and subscriber intent.
+
+## Operating Proof
+
+- **Best for**: Lifecycle marketers using AI for positioning and critique
+- **Primary artifact**: Segmented messaging brief with proof and caveats
+- **Stop condition**: Claims without evidence or unclear audience state
+
+## Agent Resources
+
+- Markdown index: /index.md
+- Skill discovery JSON: /.well-known/skills/index.json
+- Raw SKILL.md: /skills/claudeemailmarketing/SKILL.md
+- Articles: /articles/
