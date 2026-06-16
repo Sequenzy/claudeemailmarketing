@@ -1,0 +1,13 @@
+{
+  "skills": [
+    {
+      "name": "claudeemailmarketing",
+      "title": "Claude Email Marketing Skill",
+      "description": "Claude Email Marketing Skill: Claude-assisted positioning, segmentation, and lifecycle content.",
+      "install": "npx skills add claudeemailmarketing",
+      "skill_url": "https://claudeemailmarketing.com/skills/claudeemailmarketing/SKILL.md",
+      "markdown_url": "https://claudeemailmarketing.com/skill/index.md",
+      "homepage_url": "https://claudeemailmarketing.com/"
+    }
+  ]
+}

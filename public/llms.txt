@@ -1,0 +1,22 @@
+# Claude Email Marketing Skill
+
+Claude Email Marketing Skill is a skill package for Claude-assisted positioning, segmentation, and lifecycle content.
+
+Install:
+
+```bash
+npx skills add claudeemailmarketing
+```
+
+## Primary agent resources
+
+- Markdown index: https://claudeemailmarketing.com/index.md
+- Skill page: https://claudeemailmarketing.com/skill/index.md
+- Raw SKILL.md: https://claudeemailmarketing.com/skills/claudeemailmarketing/SKILL.md
+- Skill discovery JSON: https://claudeemailmarketing.com/.well-known/skills/index.json
+
+## Articles
+
+- How to Build an Agent-Ready Claude Email Marketing Strategy: https://claudeemailmarketing.com/articles/agent-ready-email-strategy/index.md
+- The Practical Claude Email Marketing Operations Playbook for AI Agents: https://claudeemailmarketing.com/articles/email-operations-playbook/index.md
+- Claude Email Marketing Skill Audit Checklist: From Prompt to Production: https://claudeemailmarketing.com/articles/email-skill-audit-checklist/index.md
