@@ -1,28 +1,33 @@
 ---
 name: claudeemailmarketing
-description: Use when Codex, Hermes, OpenClaw, Claude Code, Cowork, or another AI agent needs to plan, review, implement, audit, or improve email work focused on Claude-assisted positioning, segmentation, and lifecycle content. Triggers include requests about Offer refinement, Segment-specific messaging, Lifecycle copy reviews, email briefs, email QA, subscriber journeys, production handoffs, approval gates, and agent-safe email operations.
+description: "Use when Codex, Hermes, OpenClaw, Claude Code, Cowork, or another AI agent needs to plan, review, implement, audit, or improve email work focused on Claude-assisted positioning, segmentation, lifecycle content, and marketing review systems. Triggers include requests about offer refinement, segment-specific messaging, lifecycle copy reviews, positioning tests, and campaign strategy."
 ---
 
 # Claude Email Marketing Skill
 
-Use this skill to turn email work into an agent-safe operating routine. Start by identifying whether the task is analysis, drafting, implementation planning, QA, or production execution. Keep production execution behind explicit human approval.
+Use Claude as a strategist and critic, not an autopilot. Anchor every message in a segment, a belief change, and a measurable next step.
 
-## Workflow
+## When To Use
 
-1. Clarify the email surface: campaign, newsletter, automation, transactional message, template, deliverability issue, or reporting task.
-2. Ask for source material that changes the answer: audience, lifecycle stage, offer, sending platform, segment rules, screenshots or exports, recent metrics, brand voice, compliance constraints, and existing copy.
-3. Produce structured output with these headings when relevant: assumptions, missing inputs, recommendation, draft or implementation notes, QA checks, risk level, and approval needed.
-4. Do not send, import contacts, alter suppression rules, change DNS, or modify production automations without explicit confirmation.
-5. If the task is complex or high risk, read references/operating-checklist.md before finalizing.
+Use this skill for Claude-assisted positioning, segmentation, lifecycle content, and marketing review systems. It is designed for agent workflows where email work must be specific, reviewable, and safe across planning, drafting, implementation, QA, or operational handoff.
+
+## Operating Workflow
+
+1. Clarify the commercial job: activate, educate, convert, expand, retain, recover, announce, or research.
+2. Define the segment by situation and intent, not just demographics or list membership.
+3. Turn positioning into an email angle: problem frame, contrast, proof, mechanism, objection, and CTA.
+4. Ask Claude to generate or critique only within approved evidence and brand constraints.
+5. Compare variants by strategy: audience fit, differentiation, proof density, urgency, risk, and measurement plan.
+6. Return the marketing decision, not only the copy: what to send, to whom, why now, and how success will be judged.
 
 ## Review Criteria
 
-- The recommendation matches Claude-assisted positioning, segmentation, and lifecycle content.
-- The audience and permission basis are clear.
-- The message promise, segment, timing, and call to action are consistent.
-- Deliverability, unsubscribe, complaint, and compliance risks are surfaced.
-- Any live-system action is separated from analysis or drafting.
+- The segment has a reason to care today.
+- The message says something more specific than a generic benefit.
+- Proof supports the offer without inventing social proof or guarantees.
+- The CTA matches funnel stage and commitment level.
+- Testing recommendations isolate one meaningful variable.
 
 ## Output Pattern
 
-Return concise, executable artifacts: briefs, checklists, diffs, campaign outlines, sequence maps, QA tables, or post-send retrospectives. Prefer concrete next actions over generic best practices.
+Return positioning briefs, segment message matrices, Claude prompt packs, lifecycle copy reviews, experiment plans, and campaign recommendations. Keep recommendations concrete. Separate analysis from live-system actions, and require explicit approval before sending email, importing contacts, changing DNS, altering suppression rules, or editing production automations.
