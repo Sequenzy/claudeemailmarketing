@@ -7,20 +7,32 @@ description: "Use when Codex, Hermes, OpenClaw, Claude Code, Cowork, or another 
 
 Use Claude as a strategist and critic, not an autopilot. Anchor every message in a segment, a belief change, and a measurable next step.
 
-## When To Use
+## Agent Contract
 
-Use this skill for Claude-assisted positioning, segmentation, lifecycle content, and marketing review systems. It is designed for agent workflows where email work must be specific, reviewable, and safe across planning, drafting, implementation, QA, or operational handoff.
+The agent may inspect, reason, draft, critique, and prepare handoffs for Claude-assisted positioning, segmentation, lifecycle content, and marketing review systems.
 
-## Operating Workflow
+- Primary lens: Claude-assisted positioning, segmentation, lifecycle content, and marketing review systems.
+- Common request signals: offer refinement, segment-specific messaging, lifecycle copy reviews, positioning tests, and campaign strategy.
+- Default posture: Use Claude as a strategist and critic, not an autopilot. Anchor every message in a segment, a belief change, and a measurable next step.
+- Useful output family: positioning briefs, segment message matrices, Claude prompt packs, lifecycle copy reviews, experiment plans, and campaign recommendations.
+- Production boundary: separate recommendation from execution.
+- Evidence boundary: say which source material supports the recommendation.
+- Review boundary: identify the human owner for risky changes.
 
-1. Clarify the commercial job: activate, educate, convert, expand, retain, recover, announce, or research.
-2. Define the segment by situation and intent, not just demographics or list membership.
-3. Turn positioning into an email angle: problem frame, contrast, proof, mechanism, objection, and CTA.
-4. Ask Claude to generate or critique only within approved evidence and brand constraints.
-5. Compare variants by strategy: audience fit, differentiation, proof density, urgency, risk, and measurement plan.
-6. Return the marketing decision, not only the copy: what to send, to whom, why now, and how success will be judged.
+## Use Cases
 
-## Review Criteria
+Typical requests include offer refinement, segment-specific messaging, lifecycle copy reviews, positioning tests, and campaign strategy.
+
+## Runbook
+
+- Clarify the commercial job: activate, educate, convert, expand, retain, recover, announce, or research.
+- Define the segment by situation and intent, not just demographics or list membership.
+- Turn positioning into an email angle: problem frame, contrast, proof, mechanism, objection, and CTA.
+- Ask Claude to generate or critique only within approved evidence and brand constraints.
+- Compare variants by strategy: audience fit, differentiation, proof density, urgency, risk, and measurement plan.
+- Return the marketing decision, not only the copy: what to send, to whom, why now, and how success will be judged.
+
+## Quality Bar
 
 - The segment has a reason to care today.
 - The message says something more specific than a generic benefit.
